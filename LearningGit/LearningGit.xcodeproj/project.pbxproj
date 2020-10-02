@@ -84,7 +84,6 @@
 		4CB9E03D2527B1D6001FB544 = {
 			isa = PBXGroup;
 			children = (
-				4CB9E0812527B373001FB544 /* 第三个版本文件添加 */,
 				4CB9E0482527B1D6001FB544 /* LearningGit */,
 				4CB9E0642527B1D9001FB544 /* LearningGitTests */,
 				4CB9E06F2527B1D9001FB544 /* LearningGitUITests */,
@@ -136,13 +135,6 @@
 				4CB9E0722527B1D9001FB544 /* Info.plist */,
 			);
 			path = LearningGitUITests;
-			sourceTree = "<group>";
-		};
-		4CB9E0812527B373001FB544 /* 第三个版本文件添加 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "第三个版本文件添加";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
