@@ -21,7 +21,7 @@
 //    第二个版本
     [NSString stringWithFormat:@"%@",@"第二个版本"];
     
-    
+//    自动监测   添加到缓存
     return YES;
 }
 
