@@ -18,6 +18,9 @@
     
 //    git 分布式版本控制
     
+//    第二个版本
+    [NSString stringWithFormat:@"%@",@"第二个版本"];
+    
     
     return YES;
 }
