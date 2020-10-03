@@ -22,6 +22,9 @@
     [NSString stringWithFormat:@"%@",@"第二个版本"];
     
 //    自动监测   添加到缓存
+    
+    
+//    这里是在dev的分支下开发
     return YES;
 }
 
