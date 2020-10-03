@@ -20,7 +20,8 @@
     
 //    第二个版本
     [NSString stringWithFormat:@"%@",@"第二个版本"];
-    
+
+//    bug 分支下 修改代码
 //    自动监测   添加到缓存
     return YES;
 }
